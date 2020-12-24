@@ -7,7 +7,7 @@ L. Duffar, October 2020 https://github.com/loicduffar
 
 DATA REQUIREMENT:
 
-Data are read from up to 3 excel files (or 3 tabs in 1 or 2 excel files)
+Data are read from up to 3 excel files (or 3 tabs in 1 or 2 excel files).
 One column must be an excel date in each excel tab
 Unlimited excel columns number
 
