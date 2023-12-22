@@ -23,3 +23,4 @@ PLEASE PROCESS CELLS BELOW STARTING BY THE FIRST ONE:
 Output files are stored in a user defined directory.
 
 <img src="https://github.com/loicduffar/Daily-Streamflow-Analysis/blob/main/out/daily%20streamflows-flow%20duration%20curve.png" width="50%"></img>
+<img src="https://github.com/loicduffar/Daily-Streamflow-Analysis/blob/main/out/daily%20streamflows-frequency%20analysis%20by%20month.png" width="50%"></img>
